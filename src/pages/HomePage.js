@@ -40,7 +40,7 @@ const HomePage = () => {
             Maximize efficiency, minimize wasted space.
           </p>
           <div className="flex space-x-4">
-            <Link to="/CargoLoader" className="bg-blue-500 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-600">Explore Now</Link>
+            <Link to="/cargo-loader" className="bg-blue-500 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-600">Explore Now</Link>
             <Link to="/learn-more" className="bg-gray-200 text-blue-500 px-6 py-3 rounded-lg shadow hover:bg-gray-300">Learn More</Link>
           </div>
         </div>
